@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(176, 196, 222);
+    font-family: verdana;
+  }
+  
+  .Menu li{
+    list-style: none;
+  }
+  
+  .Menu ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+  }
+  
+  a{
+    color: darkslateblue;
+    text-decoration: none;
+    
+  }
+  
+  a:hover{
+  text-decoration: underline;
+  }
+  
+  .site-subtitle, .site-title{
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
